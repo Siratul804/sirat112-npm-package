@@ -1,0 +1,11 @@
+{
+  "name": "sirat112",
+  "version": "1.0.1",
+  "description": "It's my first creation of npm package so \"Hello World\"!",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "author": "siratul",
+  "license": "ISC"
+}
