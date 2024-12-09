@@ -8,7 +8,7 @@ Thank you for visiting my very first npm package!
 ## Installation
 
 ```bash
-npm install react-hot-toast
+npm install sirat112
 ```
 
 
