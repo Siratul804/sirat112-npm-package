@@ -1,34 +1,25 @@
-<h1 align="left" >
-Welcome
-</h1>
+# Sirat112
 
-<p align="center">
-Welcome to my very first simple npm package!
-</p>
+Thank you for visiting my very first npm package!
 
-</div>
+## Technologies
+#### Node.js
 
 ## Installation
 
-### Steps
+```bash
+npm install react-hot-toast
+```
 
-Install dependencies
-`bash
-    npm install sirat
-    `
 
-     Using of the package
-    ```bash
+## Getting Started
 
-import helloWorld from 'sirat';
+```bash
+const helloWorld = require("sirat112");
 
-console.log(helloWorld);
+console.log(helloWorld());
+```
 
-    ```
-
-## Technologies
-
-- Node.js
 
 <p align="center">
 <b>Made with ❤️ by   <a href="https://github.com/Siratul804">  Siratul Islam </a> </b> 
